@@ -8,6 +8,12 @@ Total: 90 Exercises.
 | Exercises | [Q1](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_attributes1) | [Q2](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_attributes2) | [Q3](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_attributes3) | [Q4](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_attributes4) |
 | Answer | [A1](./HTML-Attributes/htAttributesE1.html) | [A2](./HTML-Attributes/htAttributesE2.html) | [A3](./HTML-Attributes/htAttributesE3.html) | [A4](./HTML-Attributes/htAttributesE4.html) |
 
+## [HTML Headings](./HTML-Headings): 4 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/html/html_headings.asp) | 1 | 2 | 3 | 4 |
+| :--- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_headings1) | [Q2](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_headings2) | [Q3](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_headings3) | [Q4](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_headings4) |
+| Answer | [A1](./HTML-Headings/htHeadingsE1.html) | [A2](./HTML-Headings/htHeadingsE2.html) | [A3](./HTML-Headings/htHeadingsE3.html) | [A4](./HTML-Headings/htHeadingsE4.html) |
+
   
 ***list will be added later***
 
