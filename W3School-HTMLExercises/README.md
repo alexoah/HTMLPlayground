@@ -27,8 +27,7 @@ Total: 90 Exercises.
 | Answer | [A1](./HTML-Styles/htStylesE1.html) | [A2](./HTML-Styles/htStylesE2.html) | [A3](./HTML-Styles/htStylesE3.html) | [A4](./HTML-Styles/htStylesE4.html) | [A5](./HTML-Styles/htStylesE5.html) | [A6](./HTML-Styles/htStylesE6.html) |
 
 ## [HTML Formatting](./HTML-Formatting): 5 exercises
-| W3Schools [Tutorial](https://www.w3schools.com/html/html_formatting.asp
-) | 1 | 2 | 3 | 4 | 5 |
+| W3Schools [Tutorial](https://www.w3schools.com/html/html_formatting.asp) | 1 | 2 | 3 | 4 | 5 |
 | :--- | --- | --- | --- | --- | --- |
 | Exercises | [Q1](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_formatting1) | [Q2](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_formatting2) | [Q3](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_formatting3) | [Q4](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_formatting4) | [Q5](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_formatting5) |
 | Answer | [A1](./HTML-Formatting/htFormattingE1.html) | [A2](./HTML-Formatting/htFormattingE2.html) | [A3](./HTML-Formatting/htFormattingE3.html) | [A4](./HTML-Formatting/htFormattingE4.html) | [A5](./HTML-Formatting/htFormattingE5.html) |
