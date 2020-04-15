@@ -42,7 +42,7 @@ Total: 90 Exercises.
 | W3Schools [Tutorial](https://www.w3schools.com/html/html_comments.asp) | 1 | 2 |
 | :--- | --- | --- |
 | Exercises | [Q1](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_comments1) | [Q2](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_comments2) |
-| Answer | [A1](./HTML-Comments/htCommentsE1.html) | [A2](./HTML-Comments/htCommentsE1.html) |
+| Answer | [A1](./HTML-Comments/htCommentsE1.html) | [A2](./HTML-Comments/htCommentsE2.html) |
   
 ***list will be added later***
 
