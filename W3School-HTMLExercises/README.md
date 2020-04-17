@@ -1,5 +1,5 @@
 # Introduction
-All these files are from doing [W3Schools' HTML Exercises](https://www.w3schools.com/html/exercise.asp)  
+All these files are from doing [W3Schools' HTML Exercises](https://www.w3schools.com/html/exercise.asp)
 Total: 90 Exercises.
 
 ## [HTML Attributes](./HTML-Attributes): 4 exercises
@@ -43,8 +43,26 @@ Total: 90 Exercises.
 | :--- | --- | --- |
 | Exercises | [Q1](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_comments1) | [Q2](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_comments2) |
 | Answer | [A1](./HTML-Comments/htCommentsE1.html) | [A2](./HTML-Comments/htCommentsE2.html) |
-  
-***list will be added later***
+
+## [HTML CSS](./HTML-CSS): 6 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/html/html_css.asp) | 1 | 2 | 3 | 4 | 5 | 6 |
+| :--- | --- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_css1) | [Q2](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_css2) | [Q3](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_css3) | [Q4](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_css4) | [Q5](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_css5) | [Q6](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_css6) |
+| Answer | [A1](./HTML-CSS/htCSSE1.html) | [A2](./HTML-CSS/htCSSE2.html) | [A3](./HTML-CSS/htCSSE3.html) | [A4](./HTML-CSS/htCSSE4.html) | [A5](./HTML-CSS/htCSSE5.html) | [A6](./HTML-CSS/htCSSE6.html) |
+
+## [HTML Links](./HTML-Links): 5 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/html/html_links.asp) | 1 | 2 | 3 | 4 | 5 |
+| :--- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_links1) | [Q2](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_links2) | [Q3](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_links3) | [Q4](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_links4) | [Q5](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_links5) |
+| Answer | [A1](./HTML-Links/htLinksE1.html) | [A2](./HTML-Links/htLinksE2.html) | [A3](./HTML-Links/htLinksE3.html) | [A4](./HTML-Links/htLinksE4.html) | [A5](./HTML-Links/htLinksE5.html) |
+
+## [HTML Images](./HTML-Images): 6 exercises
+| W3Schools [Tutorial](https://www.w3schools.com/html/html_images.asp) | 1 | 2 | 3 | 4 | 5 | 6 |
+| :--- | --- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_images1) | [Q2](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_images2) | [Q3](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_images3) | [Q4](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_images4) | [Q5](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_images5) | [Q6](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_images6) |
+| Answer | [A1](./HTML-Images/htImagesE1.html) | [A2](./HTML-Images/htImagesE2.html) | [A3](./HTML-Images/htImagesE3.html) | [A4](./HTML-Images/htImagesE4.html) | [A5](./HTML-Images/htImagesE5.html) | [A6](./HTML-Images/htImagesE6.html) |
+
+***more lists will be added later***
 
 ##
 <sup>:octocat: Created by [@alexoah](http://github.com/alexoah) at GitHub.</sup>
